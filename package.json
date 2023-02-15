@@ -2,6 +2,10 @@
   "name": "electron-js",
   "version": "1.0.0",
   "description": "Electron JS",
+  "author": {
+    "name": "n2o",
+    "email": "cmeter@googlemail.com"
+  },
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
