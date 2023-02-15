@@ -29,4 +29,4 @@ jobs:
         with:
           name: out
           path: |
-            out
+            out/make/
