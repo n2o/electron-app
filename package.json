@@ -1,6 +1,7 @@
 {
   "name": "electron-js",
   "version": "1.0.0",
+  "description": "Electron JS",
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
